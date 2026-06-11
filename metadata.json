@@ -1,0 +1,6 @@
+{
+  "name": "天氣與潮汐預報",
+  "description": "提供當地的天氣預報與附近海域潮汐狀況，並支援即時 GPS 定位功能與美觀的視覺圖表展示。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
